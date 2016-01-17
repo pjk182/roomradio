@@ -1,0 +1,250 @@
+body{
+	background-color: #000;
+
+	font-weight: normal;
+
+}
+#mask
+{	
+ width: 100%; 
+    height: 100%; 
+    position: fixed; 
+    left: 0px; 
+    top: 0px; 
+
+}
+.stretch {
+    width:calc(100% - 340px);;
+
+    height:100%;
+}
+#rightSide
+{
+	background-color:rgba(158,158,154,0.5);
+	position:fixed;
+	right:0%;
+	height:100%;
+	width:345px;
+}
+
+video#bgvid
+ {
+	position: absolute;
+	top: 20%;
+	right: 0px;
+	bottom: -28%;
+	float: center;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index: -1;
+	background: url('myroom.jpg') no-repeat;
+	background-size: cover;
+}
+#logoutButton {
+	height: 20px;
+	width: 50px;
+	border: 0px solid #777;
+	border-radius: 3px;
+	background-size: 100% 100%;
+	background-position: center;
+	position: absolute;
+	top: 0%;
+	right: 3px;
+
+	
+}
+.container{
+	width: 340px;
+	position: fixed;
+	bottom: 0%;
+	right: 0px;
+	
+   
+	background: #fff;
+	border-radius: 4px;
+	z-index: 10
+}
+.chat-zone{
+ padding: 20px;
+ height: 400px;
+}
+.chatmsg {
+margin: 0 1px;
+}
+.chatmsg b{
+font: 13px arial, sans-serif;
+ color: #E65C00;
+ box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+.chat{
+ margin: 0 auto;
+ font: 12px arial, sans-serif;
+ box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+.chat #chatZone{
+	width: 333px;
+	height: 240px;
+	border: 1px solid #ddd;
+	border-radius: 7px;
+	overflow-y: scroll;
+	background: #fff;
+	color: #fff;
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+.chat form{
+ margin: 10px 0 0 0;
+ box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+input[type="text"]{
+	border: 1px solid #cccccc;
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	padding: 1px 6px;
+	font-size: 12px;
+	line-height: 10px;
+	color: #555555;
+	border-radius: 3px;
+	width: 180px;
+	position:relative;
+	bottom:3px;
+	left:7px;
+}
+#name{
+style=float:left;
+position:relative;
+font: 13px arial, sans-serif;
+bottom:3px;
+left:2px;
+}
+input[type="submit"]{
+	display: block;
+	color: #fff;
+	font-weight: bold;
+	cursor: pointer;
+	margin: 10px 0 0 10px;
+	padding: 2px 6px;
+	border: 1px solid #777;
+	background: #333537;
+	border-radius: 3px;
+	float: right;
+	position: relative;
+	right: 2px;
+	bottom: 14px;
+	font-size: 12px;
+}
+
+#pButton{
+	position:relative;
+	top:53px;
+	left:12%;
+	height: 30px;
+	width: 30px;
+	border: 0px solid #777;
+	border-radius: 3px;
+	background-size: 100% 100%;
+	background-position: center;
+	float: left;
+}
+.play{background: url('http://83.212.116.204/play.png') no-repeat;}
+.pause{background: url('http://83.212.116.204/pause.png') no-repeat;}
+
+#youtube{
+	background: url('http://83.212.116.204/youtube.png') no-repeat;
+	position:relative;
+	top:53px;
+	right:59%;
+	border: 0px solid #777;
+	border-radius: 3px;
+	height: 30px;
+	width: 30px;	
+	background-size: 100% 100%;
+	background-position: center;
+	float: right;
+}
+#winamp{
+	background: url('http://83.212.116.204/winamp.png') no-repeat;
+	position:relative;
+	top:60px;
+	left:70%;
+	border: 0px solid #777;
+	border-radius: 2px;
+	height: 20px;
+	width: 20px;
+	background-size: 100% 100%;
+	background-position: center;
+	float: left;
+}
+#muteButton{
+	position:relative;
+	top:60px;
+	right:80px;
+	border: 0px solid #777;
+	border-radius: 2px;
+	height: 20px;
+	width: 20px;
+	background-size: 100% 100%;
+	background-position: center;
+	float: right;
+}
+.mute{background: url('http://83.212.116.204/mute.png') no-repeat;}
+.unmute{background: url('http://83.212.116.204/unmute.png') no-repeat;}
+
+#player
+{
+
+	width: 330px;
+	height: 400px;
+	position: relative;
+	border: 1;
+	top:3%;
+	border-radius: 4px;
+	margin-bottom: 10px;
+	right:0%;
+}
+
+#volume{
+	height: 8px;
+	background-color: #A0C0D8;
+	position: absolute;
+	border-radius: 2px;
+}
+#volumeContainer {
+	
+	border: 1px solid;
+	border-color: #A0C0D8;
+	width: 70px;
+	height: 8px;
+	position: absolute;
+	left: 39%;
+	top:285px;
+	border-radius: 3px;
+
+}
+
+#metadata{
+	border-radius: 5px;
+	color:#FFF;
+	border: 1px solid #cccccc;
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	background:#333;
+	text-align: center; 
+	font: 12px arial, sans-serif;
+	position: relative;
+	display: inline-block;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: clip;
+	top:20px;
+	left:25px;
+	width: 60%;
+	
+}
+#image{
+	position: relative;
+	display: inline-block;
+	top:0%;
+	left:18%;
+	border: 0px solid #777;
+	border-radius: 6px;
+}

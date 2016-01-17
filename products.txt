@@ -1,0 +1,54 @@
+﻿
+<product>
+<new data>39
+<new data>Παζλ DJECO ΜΠΑΛΑΡΊΝΑ
+<new data>Η μπαλαρίνα με το λουλούδι παζλ από χοντρό χαρτόνι της γαλλικής εταιρείας Djeco. Σχηματικό παζλ 36 τεμαχίων κατάλληλο για παιδιά από 4 έως 6 ετών, διάστασης 42 x 30. Το κουτί είναι σε σχήμα μπαλαρίνας.
+<new data>Παζλ
+<new data>3d-products
+<new data>14,50
+<new data>/images/stories/virtuemart/product/djeco-dj07227.jpg
+<new data>/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=39&virtuemart_category_id=35&Itemid=1
+<new data>http://www.trenaki-toys.hellenicshoppingcenters.gr/proionta/3d-products
+<new data>0
+
+
+<product>
+<new data>39
+<new data>Παζλ DJECO ΜΠΑΛΑΡΊΝΑ
+<new data>Η μπαλαρίνα με το λουλούδι παζλ από χοντρό χαρτόνι της γαλλικής εταιρείας Djeco. Σχηματικό παζλ 36 τεμαχίων κατάλληλο για παιδιά από 4 έως 6 ετών, διάστασης 42 x 30. Το κουτί είναι σε σχήμα μπαλαρίνας.
+<new data>Παζλ
+<new data>3d-products
+<new data>14,50
+<new data>/images/stories/virtuemart/product/djeco-dj07227.jpg
+<new data>/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=39&virtuemart_category_id=35&Itemid=1
+<new data>http://www.trenaki-toys.hellenicshoppingcenters.gr/proionta/3d-products
+<new data>2
+
+
+<product>
+<new data>58
+<new data>Παζλ Ravensburger Wildlife 1000pcs
+<new data>Παζλ με 1000 κομμάτια για ηλικίες από 14+  το μέγεθος του είναι 70Χ50 εκατοστά
+<new data>Παζλ
+<new data>3d-products
+<new data>17,00
+<new data>/images/stories/virtuemart/product/19305.jpg
+<new data>/images/stories/virtuemart/product/19305_2.jpg
+<new data>/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=58&virtuemart_category_id=35&Itemid=1
+<new data>http://www.trenaki-toys.hellenicshoppingcenters.gr/proionta/3d-products
+<new data>0
+
+
+<product>
+<new data>58
+<new data>Παζλ Ravensburger Wildlife 1000pcs
+<new data>Παζλ με 1000 κομμάτια για ηλικίες από 14+  το μέγεθος του είναι 70Χ50 εκατοστά
+<new data>Παζλ
+<new data>3d-products
+<new data>17,00
+<new data>/images/stories/virtuemart/product/19305.jpg
+<new data>/images/stories/virtuemart/product/19305_2.jpg
+<new data>/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=58&virtuemart_category_id=35&Itemid=1
+<new data>http://www.trenaki-toys.hellenicshoppingcenters.gr/proionta/3d-products
+<new data>1
+
