@@ -1,5 +1,5 @@
 <?php
-if ($_POST['username']=="roomadmin" && $_POST['password']=="roomadmin"){
+if ($_POST['username']=="******" && $_POST['password']=="******"){
 	session_start();
 	$_SESSION['authenticated']=true;
 	header("Location:admin.php");
